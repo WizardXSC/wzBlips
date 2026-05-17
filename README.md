@@ -140,6 +140,3 @@ AddTextComponentString('<font face="Fire Sans">Blip Name</font>')
 This is fully modular. If you ever wish to replace the font, simply drop your custom `.gfx` file in the stream folder, change the registration identifiers, and you are good to go!
 
 ---
-
-## 📝 License
-This project is licensed under the MIT License - see the `LICENSE` file for details. Made with ❤️ by **WizardXSC**.
